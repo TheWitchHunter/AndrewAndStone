@@ -131,36 +131,3 @@ int main(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-//  ll sum1=0;
-//         ll sum2=0;
-//         ll count1=0;
-//         for(ll k=1;k<n-1;k++){          //1 3 1 3 4 5 1
-//             if(arr[k]%2==0){
-//                 sum1+=arr[k];
-//                 sum2+=arr[k];
-                
-//             }
-//             else if(arr[k]%2!=0){
-//                 sum1-=2;
-//                 sum1+=arr[k]+1;
-//                 count1+=1;
-//             }
-//         }
-//         if(sum1>=0 && sum2>0){
-//             ll a=((sum1)/2)+count1;
-//             cout<<a<<endl;
-//         }
-//         else{
-//             cout<<-1<<endl;
-//         }
